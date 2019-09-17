@@ -7,7 +7,8 @@ Make the following steps:
 - Build and run the application.
 
 Application has two modes:
-- With Discovery
+- With Discovery22
+
 - Without Discovery
 
 
